@@ -1,10 +1,11 @@
 package seedu.addressbook;
 
 /* Hi
+ * test
  * NOTE : =============================================================
  * This class is written in a procedural fashion (i.e. not Object-Oriented)
  * Yes, it is possible to write non-OO code using an OO language.
- * ====================================================================
+ * ==================================================== ================
  */
 
 import java.io.File;
